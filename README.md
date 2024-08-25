@@ -1,4 +1,4 @@
-Hi there, I'm Tanay Sachdeva! 👋
+## Hi there, I'm Tanay Sachdeva! 👋
 Welcome to my GitHub profile! I'm an enthusiastic and active learner, currently diving deep into the world of MERN stack development. My journey as a developer is fueled by a passion for building robust and scalable applications and contributing to production-based projects.
 
 🌱 What I'm Currently Learning
