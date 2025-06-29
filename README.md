@@ -21,5 +21,7 @@ I'm always open to collaboration and learning opportunities. Feel free to connec
 
 **[LinkedIn](https://www.linkedin.com/in/tanay-sachdeva-7119672b1/)** <br>
 **[Email](tsachdeva_be23@thapar.edu)**
+**[Portfolio](https://tanayportfolio.vercel.app/)**
+
 
 Thanks for stopping by! 🚀
