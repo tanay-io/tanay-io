@@ -20,7 +20,7 @@ Full-Stack Developer: Becoming proficient in both frontend and backend developme
 I'm always open to collaboration and learning opportunities. Feel free to connect with me!
 
 **[LinkedIn](https://www.linkedin.com/in/tanay-sachdeva-7119672b1/)** <br>
-**[Email](tsachdeva_be23@thapar.edu)**
+**[Email](tsachdeva_be23@thapar.edu)**<br>
 **[Portfolio](https://tanayportfolio.vercel.app/)**
 
 
