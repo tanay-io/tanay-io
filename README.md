@@ -1,27 +1,61 @@
-## Hi there, I'm Tanay Sachdeva! 👋
+# Hi 👋, I'm Tanay Sachdeva
 
-Welcome to my GitHub profile! I'm an enthusiastic and active learner, currently diving deep into the world of MERN stack development. My journey as a developer is fueled by a passion for building robust and scalable applications and contributing to production-based projects.
+Passionate about building real-time apps that feel alive.
 
-**🌱 What I'm Currently Learning**
+![Profile views](https://komarev.com/ghpvc/?username=tanay-io&label=Profile%20views&color=brightgreen)
 
-MERN Stack: Focused on mastering MongoDB, Express.js, React.js, and Node.js.
-Frontend Development: Enhancing my skills in React.js to create dynamic and responsive user interfaces.
-Data Structures & Algorithms (DSA): Solving problems in C++ to strengthen my problem-solving abilities and coding efficiency.
+- 💬 I’m currently working on a **Real-Time Chat App** using **React, Node.js, Socket.IO, and MongoDB**
+- ⚙️ Exploring **Next.js 15**, **WebSockets**, and advanced **frontend-backend integration**
+- 🤝 Open to collaboration on **full-stack MERN/Next.js projects**
+- 🧠 Ask me about **React, Recoil, real-time systems, and frontend architecture**
+- 🌐 Check out my portfolio: [tanayportfolio.vercel.app](https://tanayportfolio.vercel.app)
+- 📬 Reach me at: [tanaysachdeva873@gmail.com](mailto:tanaysachdeva873@gmail.com)
 
-**👨‍💻 My Development Focus**
-Backend Development: As a beginner backend developer, I'm working on building reliable and efficient server-side applications.
-Frontend Skills: Learning to integrate seamless front-end designs with back-end functionalities using React.js.
+---
 
-**🚀 Future Goals**
-Contributing to Production-Based Projects: I aim to contribute to open-source and production-grade projects, gaining real-world experience and improving my coding skills.
-Full-Stack Developer: Becoming proficient in both frontend and backend development to work on complete, end-to-end projects.
+## 🌐 Connect with me:
 
-**🤝 Let's Connect**
-I'm always open to collaboration and learning opportunities. Feel free to connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-sachdeva-7119672b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://tanayportfolio.vercel.app)
 
-**[LinkedIn](https://www.linkedin.com/in/tanay-sachdeva-7119672b1/)** <br>
-**[Email](tsachdeva_be23@thapar.edu)**<br>
-**[Portfolio](https://tanayportfolio.vercel.app/)**
+---
 
+## 💻 Languages and Tools:
 
-Thanks for stopping by! 🚀
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanay-io&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📊 Tanay's GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanay-io&show_icons=true&theme=react&hide_border=true" alt="Tanay's GitHub Stats" />
+</p>
+
+---
+
+## 📘 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-io&layout=compact&theme=react&hide_border=true" />
+</p>
