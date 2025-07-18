@@ -4,7 +4,7 @@ Passionate about building real-time apps that feel alive.
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanay-io&label=Profile%20views&color=brightgreen)
 
-- 💬 I’m currently working on a **Real-Time Chat App** using **React, Node.js, Socket.IO, and MongoDB**
+- 💬 I’m currently working on **Full Stack Web Based Applications**
 - ⚙️ Exploring **Next.js 15**, **WebSockets**, and advanced **frontend-backend integration**
 - 🤝 Open to collaboration on **full-stack MERN/Next.js projects**
 - 🧠 Ask me about **React, Recoil, real-time systems, and frontend architecture**
