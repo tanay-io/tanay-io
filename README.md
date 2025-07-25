@@ -2,7 +2,6 @@
 
 Passionate about building real-time apps that feel alive.
 
-![Profile views](https://komarev.com/ghpvc/?username=tanay-io&label=Profile%20views&color=brightgreen)
 
 - 💬 I’m currently working on **Full Stack Web Based Applications**
 - ⚙️ Exploring **Next.js 15**, **WebSockets**, and advanced **frontend-backend integration**
