@@ -11,6 +11,9 @@ Passionate about building real-time apps that feel alive.
 - 📬 Reach me at: [tanaysachdeva873@gmail.com](mailto:tanaysachdeva873@gmail.com)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=tanay-io&label=Profile%20views&color=brightgreen)
+
+
 
 ## 🌐 Connect with me:
 
