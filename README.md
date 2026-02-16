@@ -40,13 +40,6 @@ Passionate about building real-time apps that feel alive.
 
 ---
 
-## 📊 Tanay's GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanay-io&show_icons=true&theme=react&hide_border=true" alt="Tanay's GitHub Stats" />
-</p>
-
----
 
 ## 📘 Top Languages
 
