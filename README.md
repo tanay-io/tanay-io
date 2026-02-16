@@ -40,11 +40,7 @@ Passionate about building real-time apps that feel alive.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanay-io&theme=onedark&no-frame=true&column=7" />
-</p>
+>
 
 ---
 
