@@ -7,7 +7,7 @@ Passionate about building real-time apps that feel alive.
 - ⚙️ Exploring **Next.js**, **WebSockets**, and advanced **frontend-backend integration**
 - 🤝 Open to collaboration on **full-stack MERN/Next.js projects**
 - 🧠 Ask me about **React, Recoil, real-time systems, and frontend architecture**
-- 🌐 Check out my portfolio: [tanayportfolio.vercel.app](https://tanayportfolio.vercel.app)
+- 🌐 Check out my portfolio: [tanayportfolio.vercel.app](https://tanaysachdeva.in)
 - 📬 Reach me at: [tanaysachdeva873@gmail.com](mailto:tanaysachdeva873@gmail.com)
 
 ---
