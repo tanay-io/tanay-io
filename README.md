@@ -1,47 +1,95 @@
-# Hi 👋, I'm Tanay Sachdeva
+# Tanay Sachdeva
 
-Passionate about building real-time apps that feel alive.
+Backend-focused engineer interested in distributed systems, workflow automation, and building things that actually scale.
 
-
-- 💬 I’m currently working on **Full Stack Web Based Applications**
-- ⚙️ Exploring **Next.js**, **WebSockets**, and advanced **frontend-backend integration**
-- 🤝 Open to collaboration on **full-stack MERN/Next.js projects**
-- 🧠 Ask me about **React, Recoil, real-time systems, and frontend architecture**
-- 🌐 Check out my portfolio: [tanayportfolio.vercel.app](https://tanaysachdeva.in)
-- 📬 Reach me at: [tanaysachdeva873@gmail.com](mailto:tanaysachdeva873@gmail.com)
-
----
-![Profile views](https://komarev.com/ghpvc/?username=tanay-io&label=Profile%20views&color=brightgreen)
-
-
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-sachdeva-7119672b1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://tanaysachdeva.in)
+Currently pursuing B.Tech in Electronics & Computer Engineering at Thapar Institute of Engineering & Technology (TIET), Patiala.
 
 ---
 
-## 💻 Languages and Tools:
+## About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
-
+* Backend development using Node.js and real-time systems
+* Interested in system design and infrastructure problems
+* CGPA: 8.18
+* Currently learning Go and diving deeper into distributed systems
+* Preparing for 2026 placements
 
 ---
 
+## Tech Stack
 
-## 📘 Top Languages
+**Backend:**
+Node.js, Express.js, REST APIs, WebSockets
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-io&layout=compact&theme=react&hide_border=true" />
-</p>
+**Frontend:**
+React.js, Next.js, TypeScript, TailwindCSS
+
+**Databases & Messaging:**
+MongoDB, Redis, Kafka
+
+**Tools:**
+Docker, Git, BullMQ
+
+---
+
+## Projects
+
+### ZapRun — Workflow Automation Engine
+A CLI-first workflow automation engine. A tribute to all developers abandoned by Zapier when it killed the custom HTTP executor (July 2024). This filled the void.
+Killer Feature: It allows users to communicate with their internal APIs as well and acts as an orchestrator.
+**What it has :**
+- Kafka-backed distributed worker pool with lease-based job claiming
+- Outbox pattern for guaranteed execution
+- Versioned workflow snapshots 
+- Full observability: `zaprun logs --verbose`
+
+---
+
+### NoteWhiz — AI Document Assistant
+
+A tool to summarize documents and generate flashcards for quick learning.
+
+* Supports PDFs, images, and text input
+* Generates summaries and flashcards
+* Simple and clean UI
+
+**Stack:** Next.js, TypeScript, TailwindCSS, OpenAI API
+
+---
+
+## Experience
+
+**Convivity Technologies (Remote)**
+Worked on backend APIs and system improvements
+
+**VetikalLabs (Remote)**
+Contributed to production features and codebase enhancements
+
+**GirlScript Summer of Code**
+Open-source contributions
+
+---
+
+## Achievements
+
+* JEE Mathematics Percentile: 99.02
+
+---
+
+## Current Focus
+
+* Building ZapRun MVP 
+* Practicing DSA for placements
+* Learning Go for backend systems
+
+---
+
+## Links
+
+GitHub: https://github.com/tanay-io 
+LinkedIn: https://linkedin.com/in/tanay-sachdeva-7119672b1
+Portfolio: https://tanaysachdeva.in
+
+---
+
+I am building systems that remove repetitive work and turn complex flows into simple commands.
