@@ -1,14 +1,12 @@
 # Tanay Sachdeva
 
-Backend-focused engineer interested in distributed systems, workflow automation, and building things that actually scale.
-
 Currently pursuing B.Tech in Electronics & Computer Engineering at Thapar Institute of Engineering & Technology (TIET), Patiala.
 
 ---
 
 ## About Me
 
-* Backend development using Node.js and real-time systems
+* Full stack Devolper 
 * Interested in system design and infrastructure problems
 * CGPA: 8.18
 * Currently learning Go and diving deeper into distributed systems
@@ -25,10 +23,10 @@ Node.js, Express.js, REST APIs, WebSockets
 React.js, Next.js, TypeScript, TailwindCSS
 
 **Databases & Messaging:**
-MongoDB, Redis, Kafka
+MongoDB, Redis
 
 **Tools:**
-Docker, Git, BullMQ
+Docker, Git
 
 ---
 
